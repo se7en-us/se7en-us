@@ -1,5 +1,5 @@
 <h3 align="center">
-Gabriel • Estudante de Segurança da Informação • Pentest Web
+Estudante de Segurança da Informação • Pentest Web
 </h3>
 
 <h4 align="center">Linguagens</h4>
